@@ -1,0 +1,9 @@
+{
+    "id": "widget-demo",
+    "name": "DEMO",
+    "widget_type": "external",
+    "version": "1.0.0",
+    "meta": [
+        {"key": "word", "type": "string", "name": "展示单词"}
+    ]
+}

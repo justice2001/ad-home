@@ -1,0 +1,9 @@
+{
+    "id": "widget-app",
+    "name": "应用",
+    "version": "1.0.0",
+    "meta": [
+        {"key": "icon", "type": "string", "name": "图标样式"},
+        {"key": "name", "type": "string", "name": "选项卡"}
+    ]
+}
